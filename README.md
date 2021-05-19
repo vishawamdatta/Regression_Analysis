@@ -15,4 +15,4 @@ to reduce the variance , hence along with determining feature importance, an ana
 relative performance of the three models is also done and analysed.
 
 Every important inference and insights are mentioned in the detailed results and inferences document 
-provided along with source code.
+provided along with the source code.
