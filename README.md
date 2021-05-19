@@ -1,4 +1,4 @@
-# Regression_Analysis
+# Parameter Importance In Regression 
 Determining the relative importance of feature variables of the boston housing dataset by varying lambda values in ridge and lasso regression.
 
 Used the ridge and lasso regression models and plotted a graph
